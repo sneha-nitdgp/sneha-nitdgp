@@ -11,14 +11,18 @@ I'm a sophomore at __National Institute of Technology Durgapur__.
 
 
 I explored __competitive programming__ and __frontend development__ in my freshman year.
-Here is my codechef profile: [@Sneha](https://www.codechef.com/users/sweet_summer)
-Started with __Game Development__ recently and I'm really loving it! Currently working on improving my problem solving skills and learning the __MEAN stack__.
+Here is my codechef profile: [@Sneha](https://www.codechef.com/users/sweet_summer).
+
+
+Started with __Game Development__ recently and I'm really loving it! 
+
+Currently working on improving my problem solving skills and learning the __MEAN stack__.
 
 
 ## Contact And Social
 **Where to find me or contact me:**  
-* :blush: Connect with me [@Sneha](https://www.linkedin.com/in/sneha-chattopadhyay-a390741a7/)
-* Follow me on Quora(https://www.quora.com/profile/Sneha-Chatterjee-87)
+* :blue_heart:Connect with me [@Sneha](https://www.linkedin.com/in/sneha-chattopadhyay-a390741a7/)
+* :purple_heart: Follow me on Quora[@Sneha](https://www.quora.com/profile/Sneha-Chatterjee-87)
 
 
 
