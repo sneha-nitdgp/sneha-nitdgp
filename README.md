@@ -9,9 +9,10 @@ I'm a sophomore at __National Institute of Technology Durgapur__.
 * ✍🏻 Working as a Web Developer at __SAE India collegiate chapter__ of my college<br/>
 
 
+**My Interests:**  :dolphin:
 
 I explored __competitive programming__ and __frontend development__ in my freshman year.
-Here is my codechef profile: [@Sneha](https://www.codechef.com/users/sweet_summer).
+Here is my codechef profile: [Genie Dolphin](https://www.codechef.com/users/sweet_summer).(P.S. I love dolphins)
 
 
 Started with __Game Development__ recently and I'm really loving it! 
@@ -20,9 +21,10 @@ Currently working on improving my problem solving skills and learning the __MEAN
 
 
 ## Contact And Social
-**Where to find me or contact me:**  
-* :blue_heart:Connect with me [@Sneha](https://www.linkedin.com/in/sneha-chattopadhyay-a390741a7/)
-* :purple_heart: Follow me on Quora[@Sneha](https://www.quora.com/profile/Sneha-Chatterjee-87)
+
+ :blue_heart:Connect with me [LinkedIn](https://www.linkedin.com/in/sneha-chattopadhyay-a390741a7/)
+ 
+ :purple_heart: Follow me on Quora[@Sneha](https://www.quora.com/profile/Sneha-Chatterjee-87)
 
 
 
