@@ -11,10 +11,12 @@ I'm a sophomore at __National Institute of Technology Durgapur__.
 
 **My Interests:** 
 
-######I explored __competitive programming__ and __frontend development__ in my freshman year.
+I explored __competitive programming__ and __frontend development__ in my freshman year.
 Here is my codechef profile: [Genie Dolphin](https://www.codechef.com/users/sweet_summer)(P.S. I love dolphins):dolphin:
-######Started with __Game Development__ recently and I'm really loving it! 
-######Currently working on improving my problem solving skills and learning the __MEAN stack__.
+
+Started with __Game Development__ recently and I'm really loving it! 
+
+Currently working on improving my problem solving skills and learning the __MEAN stack__.
 
 
 ## Contact And Social
