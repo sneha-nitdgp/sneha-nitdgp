@@ -25,6 +25,5 @@ Currently working on improving my __problem solving skills__ and learning the __
  
  :purple_heart: Follow me on Quora[@Sneha](https://www.quora.com/profile/Sneha-Chatterjee-87)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=sneha-nitdgp.sneha-nitdgp)
 
 
