@@ -16,7 +16,7 @@ Here is my codechef profile: [Genie Dolphin](https://www.codechef.com/users/swee
 
 Started with __Game Development__ recently and I'm really loving it! 
 
-Currently working on improving my __problem solving skills__ and learning the __MEAN stack__.
+Currently working on improving my __problem solving skills__ and learning new __tech stacks__.
 
 
 ## Contact And Social
