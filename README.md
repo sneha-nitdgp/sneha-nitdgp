@@ -11,6 +11,7 @@ I am:
 * ✍🏻 One of the 40 mentees of __[LinkedIn CoachIn](https://coachin2021.splashthat.com/)__  for the year 2021<br/>
 * ✍🏻 Web Developer at __SAE India collegiate chapter__ of NIT Durgapur.<br/>
 * ✍🏻 Mentor at __[GWOC'21](https://gwoc.girlscript.tech/index.html)__, for __DSA__ and __Backend with Python__.<br/>
+* ✍🏻 Mentor at __[OpenCode, IIIT A'21](https://opencodeiiita.github.io/)__, a one month long open source program conducted by __IIIT A__.<br/>
 * ✍🏻 Fest Coordinator at __Aarohan__, the second largest technical fest of Eastern India.<br/>
 
 
