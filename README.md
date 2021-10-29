@@ -61,7 +61,7 @@ __Leetcode__: [sneha-nitdgp](https://leetcode.com/sneha-nitdgp/) <br/>
 
  :blue_heart:Connect with me on [LinkedIn](https://www.linkedin.com/in/sneha-chattopadhyay-a390741a7/)<br/>
  :purple_heart: Follow me on [Quora](https://www.quora.com/profile/Sneha-Chatterjee-87)<br/>
- :orange_heart: Drop me a [mail](snehautp@gmail.com)
+ :orange_heart: Drop me a [mail](mailto:snehautp@gmail.com)
 
 
 
