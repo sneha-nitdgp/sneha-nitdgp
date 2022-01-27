@@ -13,6 +13,7 @@
 * ✍🏻 Technical Content Writer at __[Scaler](https://www.scaler.com/topics/)__  for the C/C++ Hub.<br/>
 * ✍🏻 Undergraduate Research Assistant at __NIT Durgapur__.<br/>
 * ✍🏻 __Managed Network Expert__ for Computer Science at __[Chegg](https://www.chegg.com/)__.<br/>
+* ✍🏻 Web Developer at __[SAE India collegiate chapter](https://www.saenitd.com/)__ of NIT Durgapur.<br/>
 * ✍🏻 Former Mentor at __[GWOC'21](https://gwoc.girlscript.tech/index.html)__, for __DSA__ .<br/>
 * ✍🏻 Former Mentor at __[OpenCode'21](https://opencodeiiita.github.io/)__, a one month long open source program conducted by __IIIT A__.<br/>
 * ✍🏻 Recipient of __[AWS Machine Learning Scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)__, conducted by AWS and Udacity.<br/>
