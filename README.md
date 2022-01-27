@@ -10,11 +10,12 @@
 * ✍🏻 A third year undergraduate at NIT Durgapur.<br/>
 * ✍🏻 Recipient of the __[Google Generation Scholarship'2021](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/)__ for women in computer science.<br/>
 * ✍🏻 One of the 40 mentees of __[LinkedIn CoachIn](https://coachin2021.splashthat.com/)__  for the year 2021.<br/>
-* ✍🏻 Web Developer at __[SAE India collegiate chapter](https://www.saenitd.com/)__ of NIT Durgapur.<br/>
-* ✍🏻 Mentor at __[GWOC'21](https://gwoc.girlscript.tech/index.html)__, for __DSA__ and __Backend with Python__.<br/>
-* ✍🏻 Mentor at __[OpenCode'21](https://opencodeiiita.github.io/)__, a one month long open source program conducted by __IIIT A__.<br/>
-* ✍🏻 Recipient of __[AWS Machine Learning Scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)__, conducted by AWS and Udacity.<br/>
+* ✍🏻 Technical Content Writer at __[Scaler](https://www.scaler.com/topics/)__  for the C/C++ Hub.<br/>
+* ✍🏻 Undergraduate Research Assistant at __NIT Durgapur__.<br/>
 * ✍🏻 __Managed Network Expert__ for Computer Science at __[Chegg](https://www.chegg.com/)__.<br/>
+* ✍🏻 Former Mentor at __[GWOC'21](https://gwoc.girlscript.tech/index.html)__, for __DSA__ .<br/>
+* ✍🏻 Former Mentor at __[OpenCode'21](https://opencodeiiita.github.io/)__, a one month long open source program conducted by __IIIT A__.<br/>
+* ✍🏻 Recipient of __[AWS Machine Learning Scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)__, conducted by AWS and Udacity.<br/>
 * ✍🏻 Fest Coordinator at __Aarohan__, the second largest technical fest of Eastern India.<br/>
 
 
@@ -22,9 +23,8 @@
 
 <h3 align="left">My Interests: </h3> 
 
-* I have explored __competitive programming__, __Web Development__  and __Game development__. <br/>
+* I enjoy doing __competitive programming__ and __Web Development__. <br/>
 * I'm looking to collaborate on __MERN__ , __Django__ projects.<br/>
-* I am currently learning __Machine Learning__.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -44,7 +44,6 @@ Here are my coding profiles: <br/>
 
 __Codechef__: [sweet_summer](https://www.codechef.com/users/sweet_summer) <br/>
 __Codeforces__: [sneha_c](codeforces.com/profile/sneha_c) <br/>
-__Leetcode__: [sneha-nitdgp](https://leetcode.com/sneha-nitdgp/) <br/>
 
 
 
