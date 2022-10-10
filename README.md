@@ -7,11 +7,13 @@
 
 <h3 align="left">I am:</h3>
 
-* ✍🏻 A third year undergraduate at NIT Durgapur.<br/>
+* ✍🏻 A fourth year undergraduate at NIT Durgapur.<br/>
+* ✍🏻 An upcoming software engineer at __JP Morgan London__.<br/>
 * ✍🏻 Recipient of the __[Google Generation Scholarship'2021](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/)__ for women in computer science.<br/>
 * ✍🏻 One of the 40 mentees of __[LinkedIn CoachIn](https://coachin2021.splashthat.com/)__  for the year 2021.<br/>
-* ✍🏻 Technical Content Writer at __[Scaler](https://www.scaler.com/topics/)__  for the C/C++ Hub.<br/>
-* ✍🏻 Undergraduate Research Assistant at __NIT Durgapur__.<br/>
+* ✍🏻 Technical Content Writer and Reviewer at __[Scaler](https://www.scaler.com/topics/)__  for the C/C++, DSA, Python, Javascript, HTML, SQL hubs.<br/>
+* ✍🏻 Former undergraduate Research Assistant at __NIT Durgapur__.<br/>
+* ✍🏻 Former research intern at __IIT Patna__.<br/>
 * ✍🏻 __Managed Network Expert__ for Computer Science at __[Chegg](https://www.chegg.com/)__.<br/>
 * ✍🏻 Web Developer at __[SAE India collegiate chapter](https://www.saenitd.com/)__ of NIT Durgapur.<br/>
 * ✍🏻 Former Mentor at __[GWOC'21](https://gwoc.girlscript.tech/index.html)__, for __DSA__ .<br/>
